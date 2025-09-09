@@ -1,4 +1,4 @@
-# Pac-Man F1 Version 
+# Pac-Man F1 Version.
 
 A modern, Python-based recreation of the classic Pac-Man game, built from scratch using PyGame. This project features custom graphics, smooth gameplay, and all the classic mechanics you love—dots, power pellets, ghosts, and more!
 
